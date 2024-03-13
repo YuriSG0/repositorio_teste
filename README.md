@@ -17,7 +17,7 @@ subtitulo isso é *italico*
  
 #### LOGO DE LINGUAGEM UTILIZADA
 
-![Logo_Python](img/python.png)
+![Logo_Python](img/python.png) 
 
 ![Logo_PHP](https://pt.m.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
 
