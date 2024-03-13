@@ -14,7 +14,7 @@ subtitulo isso é *italico*
 ### FUNCIONALIDADES A DESENVOLVER:
 1. área de membros
 2. Pagina de login
-
+ 
 #### LOGO DE LINGUAGEM UTILIZADA
 
 ![Logo_Python](img/python.png)
