@@ -20,3 +20,6 @@ subtitulo isso é *italico*
 ![Logo_Python](img/python.png)
 
 ![Logo_PHP](https://pt.m.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
+
+#### LINK INTERESSANTES:
+[GOOGLE](https://www.google.com.br/)
