@@ -17,4 +17,4 @@ subtitulo isso é *italico*
 
 #### LOGO DE LINGUAGEM UTILIZADA
 
-![Logo_Python](1_ycIMlwgwicqlO6PcFRA-Iw.png)
+![Logo_Python](img/1_ycIMlwgwicqlO6PcFRA-Iw.png)
