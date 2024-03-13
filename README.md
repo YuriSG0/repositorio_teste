@@ -4,7 +4,7 @@ TESTE DE  isso é negrito **MARKDOW**
 subtitulo isso é *italico*
 
 
-### INGUAGENS DO PROJETO:
+### LINGUAGENS DO PROJETO:
 * SQL
 * HTML
 * CSS
@@ -14,3 +14,7 @@ subtitulo isso é *italico*
 ### FUNCIONALIDADES A DESENVOLVER:
 1. área de membros
 2. Pagina de login
+
+#### LOGO DE LINGUAGEM UTILIZADA
+
+![Logo_Python](1_ycIMlwgwicqlO6PcFRA-Iw.png)
