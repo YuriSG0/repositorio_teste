@@ -25,6 +25,6 @@ subtitulo isso é *italico*
 [GOOGLE](https://www.google.com.br/)
 
 
-'''html
+```html
 <h1>H1</h1>
-'''
+```
